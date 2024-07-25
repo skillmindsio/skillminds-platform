@@ -1,0 +1,14 @@
+{
+  "name": "skillminds-platform",
+  "version": "1.0.0",
+  "description": "A Node.js application for Skillminds platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "body-parser": "^1.19.0"
+  }
+}
